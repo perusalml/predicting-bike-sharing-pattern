@@ -1,2 +1,2 @@
 # predicting-bike-sharing-pattern
-Udacity Project: Predicting Bike sharing pattern
+Udacity Deep Learning Nano degree program Project: Predicting Bike sharing pattern
